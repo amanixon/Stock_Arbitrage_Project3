@@ -9,7 +9,7 @@ SMCI, AAPL, AMZN, PLTR, INTC, SOUN,
 * Historical Data API : 2015-2024 : use their daily returns
 * Establish communication channels and project management tools.
 ## Procedure:
-* Analysis of AI Compute sector stocks using regression to model an index.
+* Analysis of AI Computer sector stocks using regression to model an index.
 * Assessment of index's correlation with the target stock (NVIDIA Corp).
 * Prediction of market price based on historical data.
 
