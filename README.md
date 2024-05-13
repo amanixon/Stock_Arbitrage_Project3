@@ -14,7 +14,7 @@
 * Historical Data API: 2015-2024: use their daily returns
 * Develop a trading algorithm based on multiple regression models:
     * Ordinary Least Squares(OLS):  Series Models for Volatility Forecasts and Statistical Arbitrage linear model and inference and prediction
-    * Vector Autoregression(VAR): Prepare the data by combining the adjusted close prices of both stocks into a single data frame. Then, we can use the VAR model from the statsmodels library to fit the model and make predictions
+    *  Support Vector Autoregression(SVAR): Prepare the data by combining the adjusted close prices of both stocks into a single data frame. Then, we can use the VAR model from the statsmodels library to fit the model and make predictions
     * Pairs Trading Model: Take long and short positions in the two securities based on deviations from their historical relationship. When one security deviates from the other, the model enters a trade with the expectation that the prices will converge.
     *  Actual Returns vs Strategy Returns: Assess the accuracy of your forecasts by comparing them to the actual values in your test dataset using Mean Absolute Error (MAE) 
 
