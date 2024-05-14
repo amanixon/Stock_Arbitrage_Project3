@@ -23,12 +23,12 @@
 * Evaluation for different network structures and time delays
  
 
-## Data Analysis 
-   * SVR Model: Support Vector Regression is a powerful machine learning algorithm used for regression tasks
-   * LSTM NEURAL NETWORK: Long Short-Term Memory is a type of recurrent neural network (RNN) architecture that is particularly effective in learning and predicting sequences of data. 
-   * Logistic Regression: Logistic Regression is a type of statistical model used for binary classification tasks, where the target variable has two possible outcomes.
-   * PAIRS TRADING MODEL: Pairs Trading is a quantitative trading strategy that seeks to exploit the historical correlation between two assets by taking simultaneous long and short positions in them.
-   * OLS MODEL: Ordinary Least Squares is a series model for volatility forecasts and statistical arbitrage linear model and inference and prediction. 
+## Data Analysis  
+* SVR Model: Support Vector Regression is a powerful machine learning algorithm used for regression tasks
+* LSTM NEURAL NETWORK: Long Short-Term Memory is a type of recurrent neural network (RNN) architecture that is particularly effective in learning and predicting sequences of data. 
+* Logistic Regression: Logistic Regression is a type of statistical model used for binary classification tasks, where the target variable has two possible outcomes.
+* PAIRS TRADING MODEL: Pairs Trading is a quantitative trading strategy that seeks to exploit the historical correlation between two assets by taking simultaneous long and short positions in them.
+* OLS MODEL: Ordinary Least Squares is a series model for volatility forecasts and statistical arbitrage linear model and inference and prediction. 
  
  
 ## Model Accuracy 
