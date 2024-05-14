@@ -31,7 +31,7 @@
    * OLS MODEL: Ordinary Least Squares is a series model for volatility forecasts and statistical arbitrage linear model and inference and prediction. 
  
  
-##Model Accuracy 
+## Model Accuracy 
 * Logistic Regression: accuracy = 75%
 * Entry & Exit Signals: Correlation = 88.5%
 * Mean Absolute Error(MAE): 6.72552
